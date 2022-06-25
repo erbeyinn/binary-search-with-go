@@ -1,1 +1,1 @@
-# binary-search-with-go
+# binary-search-with-go go'dumun seni
